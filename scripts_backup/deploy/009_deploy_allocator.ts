@@ -13,12 +13,12 @@ const func: DeployFunction = async (hre: HardhatRuntimeEnvironment) => {
 
     const authorityDeployment = await deployments.get(CONTRACTS.authority);
     const treasuryDeployment = await deployments.get(CONTRACTS.treasury);
-    const lusdTokenAddress = "0xaf844BBaD90fB27ae949376338F7c9DA1251acFf";
-    const lqtyToken = "0xf8A1aA1c34970aCE24041ef038A442732d942b89";
+    const lusdTokenAddress = "0x9c5ae6852622dde455b6fca4c1551fc0352531a3";
+    const lqtyToken = "0xf74dcabea0954aeb6903c8a71d41e468a6b77357";
     const stabilityPool = "0xFd0dB2BA8BEaC72d45f12A76f40c345BBf5f6F8d";
     const stakingPool = "0x35D3293EA6dD210b8Ca25668ae266ca4C834Ea1b";
-    const weth = "0xc778417E063141139Fce010982780140Aa0cD5Ab";
-    const hopTokenAddress = "0x6b175474e89094c44da98b954eedeac495271d0f"; // DAI
+    const weth = "0xc778417e063141139fce010982780140aa0cd5ab";
+    const hopTokenAddress = "0x95b58a6bff3d14b7db2f5cb5f0ad413dc2940658"; // DAI
 
     await deploy(CONTRACTS.lusdAllocator, {
         from: deployer,

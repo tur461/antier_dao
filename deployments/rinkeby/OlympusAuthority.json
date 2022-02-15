@@ -1,5 +1,5 @@
 {
-  "address": "0x4051946f4144a1E49A0146a70BfaEB6aEe5413D2",
+  "address": "0x44398e56AFD9f011020984BDC2dbd0F592cD2153",
   "abi": [
     {
       "inputs": [
@@ -447,97 +447,97 @@
       "type": "function"
     }
   ],
-  "transactionHash": "0xd40cc4a1532eb035e8c789dfa50fb21f535098aa2a63747a988b0d767d568fa8",
+  "transactionHash": "0xbdde64aff5fde0321acabdcb159b225dda0f517eddfdd631ece3f47ca2d8c24b",
   "receipt": {
     "to": null,
-    "from": "0xF19250A3320bE69B80daf65D057aE05Bb12F0919",
-    "contractAddress": "0x4051946f4144a1E49A0146a70BfaEB6aEe5413D2",
-    "transactionIndex": 23,
+    "from": "0xE9107264e41AafE5CB3682F2f71A1973643065a2",
+    "contractAddress": "0x44398e56AFD9f011020984BDC2dbd0F592cD2153",
+    "transactionIndex": 11,
     "gasUsed": "893682",
-    "logsBloom": "0x00000001010000000000000000000000000000000000000000000000000000000000000200004000000000000000080010000000000000000000000000000000400000000000000000000000004000000004000000000000000000800000000000400000020000000000000000000800000000000200000004000000000080000000000000000000000000000000000008000000000008000000000000000000000000020000000200000000000000001000000000000000000000000000000002000000000000000000100000000000000000000000000000000000100020000000000000000000000108000000000000000000000000000000000000000000",
-    "blockHash": "0x97d8416901748a992f3a658fa730e091f426039bcc9f31155e7b435d16e19f23",
-    "transactionHash": "0xd40cc4a1532eb035e8c789dfa50fb21f535098aa2a63747a988b0d767d568fa8",
+    "logsBloom": "0x00000000010000000000000000000000000000000000000000000000000000000010000000004000000000000000000000000000000000000000000008000000000000000000000000000000080000000004000000000000000000800000000000400000020000000000000000000800000000000200000004000000000000000000000000000000080000000000000008000000000008000400000000000000000000000000000200000000000000001000000000000000000040000002000002000000000000000000100000000000000000000000000000400000000020000000000000000000000108000000000000000000000000080000000000000000",
+    "blockHash": "0x744da8829e52ee127294aa4bd6343ea947eb14933237dbc214f97da248b7727a",
+    "transactionHash": "0xbdde64aff5fde0321acabdcb159b225dda0f517eddfdd631ece3f47ca2d8c24b",
     "logs": [
       {
-        "transactionIndex": 23,
-        "blockNumber": 10164886,
-        "transactionHash": "0xd40cc4a1532eb035e8c789dfa50fb21f535098aa2a63747a988b0d767d568fa8",
-        "address": "0x4051946f4144a1E49A0146a70BfaEB6aEe5413D2",
+        "transactionIndex": 11,
+        "blockNumber": 10171887,
+        "transactionHash": "0xbdde64aff5fde0321acabdcb159b225dda0f517eddfdd631ece3f47ca2d8c24b",
+        "address": "0x44398e56AFD9f011020984BDC2dbd0F592cD2153",
         "topics": [
           "0x2f658b440c35314f52658ea8a740e05b284cdc84dc9ae01e891f21b8933e7cad",
-          "0x0000000000000000000000004051946f4144a1e49a0146a70bfaeb6aee5413d2"
+          "0x00000000000000000000000044398e56afd9f011020984bdc2dbd0f592cd2153"
         ],
         "data": "0x",
-        "logIndex": 82,
-        "blockHash": "0x97d8416901748a992f3a658fa730e091f426039bcc9f31155e7b435d16e19f23"
+        "logIndex": 58,
+        "blockHash": "0x744da8829e52ee127294aa4bd6343ea947eb14933237dbc214f97da248b7727a"
       },
       {
-        "transactionIndex": 23,
-        "blockNumber": 10164886,
-        "transactionHash": "0xd40cc4a1532eb035e8c789dfa50fb21f535098aa2a63747a988b0d767d568fa8",
-        "address": "0x4051946f4144a1E49A0146a70BfaEB6aEe5413D2",
+        "transactionIndex": 11,
+        "blockNumber": 10171887,
+        "transactionHash": "0xbdde64aff5fde0321acabdcb159b225dda0f517eddfdd631ece3f47ca2d8c24b",
+        "address": "0x44398e56AFD9f011020984BDC2dbd0F592cD2153",
         "topics": [
           "0x4f337dcbb2512f18373c1f72d990a2f0a6ee5024b04007c52afd01eb73374a89",
           "0x0000000000000000000000000000000000000000000000000000000000000000",
-          "0x000000000000000000000000f19250a3320be69b80daf65d057ae05bb12f0919"
+          "0x000000000000000000000000e9107264e41aafe5cb3682f2f71a1973643065a2"
         ],
         "data": "0x0000000000000000000000000000000000000000000000000000000000000001",
-        "logIndex": 83,
-        "blockHash": "0x97d8416901748a992f3a658fa730e091f426039bcc9f31155e7b435d16e19f23"
+        "logIndex": 59,
+        "blockHash": "0x744da8829e52ee127294aa4bd6343ea947eb14933237dbc214f97da248b7727a"
       },
       {
-        "transactionIndex": 23,
-        "blockNumber": 10164886,
-        "transactionHash": "0xd40cc4a1532eb035e8c789dfa50fb21f535098aa2a63747a988b0d767d568fa8",
-        "address": "0x4051946f4144a1E49A0146a70BfaEB6aEe5413D2",
+        "transactionIndex": 11,
+        "blockNumber": 10171887,
+        "transactionHash": "0xbdde64aff5fde0321acabdcb159b225dda0f517eddfdd631ece3f47ca2d8c24b",
+        "address": "0x44398e56AFD9f011020984BDC2dbd0F592cD2153",
         "topics": [
           "0xde655975891e8f09671597b37bd4d663bcc5c21dc6d7641b33cdf85fbe15d08b",
           "0x0000000000000000000000000000000000000000000000000000000000000000",
-          "0x000000000000000000000000f19250a3320be69b80daf65d057ae05bb12f0919"
+          "0x000000000000000000000000e9107264e41aafe5cb3682f2f71a1973643065a2"
         ],
         "data": "0x0000000000000000000000000000000000000000000000000000000000000001",
-        "logIndex": 84,
-        "blockHash": "0x97d8416901748a992f3a658fa730e091f426039bcc9f31155e7b435d16e19f23"
+        "logIndex": 60,
+        "blockHash": "0x744da8829e52ee127294aa4bd6343ea947eb14933237dbc214f97da248b7727a"
       },
       {
-        "transactionIndex": 23,
-        "blockNumber": 10164886,
-        "transactionHash": "0xd40cc4a1532eb035e8c789dfa50fb21f535098aa2a63747a988b0d767d568fa8",
-        "address": "0x4051946f4144a1E49A0146a70BfaEB6aEe5413D2",
+        "transactionIndex": 11,
+        "blockNumber": 10171887,
+        "transactionHash": "0xbdde64aff5fde0321acabdcb159b225dda0f517eddfdd631ece3f47ca2d8c24b",
+        "address": "0x44398e56AFD9f011020984BDC2dbd0F592cD2153",
         "topics": [
           "0x90a5902a45c24aae553d5aff384ca16d6560f08d74c9784a4fbd2796d9e13f2b",
           "0x0000000000000000000000000000000000000000000000000000000000000000",
-          "0x000000000000000000000000f19250a3320be69b80daf65d057ae05bb12f0919"
+          "0x000000000000000000000000e9107264e41aafe5cb3682f2f71a1973643065a2"
         ],
         "data": "0x0000000000000000000000000000000000000000000000000000000000000001",
-        "logIndex": 85,
-        "blockHash": "0x97d8416901748a992f3a658fa730e091f426039bcc9f31155e7b435d16e19f23"
+        "logIndex": 61,
+        "blockHash": "0x744da8829e52ee127294aa4bd6343ea947eb14933237dbc214f97da248b7727a"
       },
       {
-        "transactionIndex": 23,
-        "blockNumber": 10164886,
-        "transactionHash": "0xd40cc4a1532eb035e8c789dfa50fb21f535098aa2a63747a988b0d767d568fa8",
-        "address": "0x4051946f4144a1E49A0146a70BfaEB6aEe5413D2",
+        "transactionIndex": 11,
+        "blockNumber": 10171887,
+        "transactionHash": "0xbdde64aff5fde0321acabdcb159b225dda0f517eddfdd631ece3f47ca2d8c24b",
+        "address": "0x44398e56AFD9f011020984BDC2dbd0F592cD2153",
         "topics": [
           "0x05a80f5053574d6a62733e1692e8cbcfaf927dc82df0a7267ea2e489a7cc18ff",
           "0x0000000000000000000000000000000000000000000000000000000000000000",
-          "0x000000000000000000000000f19250a3320be69b80daf65d057ae05bb12f0919"
+          "0x000000000000000000000000e9107264e41aafe5cb3682f2f71a1973643065a2"
         ],
         "data": "0x0000000000000000000000000000000000000000000000000000000000000001",
-        "logIndex": 86,
-        "blockHash": "0x97d8416901748a992f3a658fa730e091f426039bcc9f31155e7b435d16e19f23"
+        "logIndex": 62,
+        "blockHash": "0x744da8829e52ee127294aa4bd6343ea947eb14933237dbc214f97da248b7727a"
       }
     ],
-    "blockNumber": 10164886,
-    "cumulativeGasUsed": "14515833",
+    "blockNumber": 10171887,
+    "cumulativeGasUsed": "7334858",
     "status": 1,
     "byzantium": true
   },
   "args": [
-    "0xF19250A3320bE69B80daf65D057aE05Bb12F0919",
-    "0xF19250A3320bE69B80daf65D057aE05Bb12F0919",
-    "0xF19250A3320bE69B80daf65D057aE05Bb12F0919",
-    "0xF19250A3320bE69B80daf65D057aE05Bb12F0919"
+    "0xE9107264e41AafE5CB3682F2f71A1973643065a2",
+    "0xE9107264e41AafE5CB3682F2f71A1973643065a2",
+    "0xE9107264e41AafE5CB3682F2f71A1973643065a2",
+    "0xE9107264e41AafE5CB3682F2f71A1973643065a2"
   ],
   "solcInputHash": "4b74ab7978d417e2fb1122430c47efec",
   "metadata": "{\"compiler\":{\"version\":\"0.8.10+commit.fc410830\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"inputs\":[{\"internalType\":\"address\",\"name\":\"_governor\",\"type\":\"address\"},{\"internalType\":\"address\",\"name\":\"_guardian\",\"type\":\"address\"},{\"internalType\":\"address\",\"name\":\"_policy\",\"type\":\"address\"},{\"internalType\":\"address\",\"name\":\"_vault\",\"type\":\"address\"}],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"anonymous\":false,\"inputs\":[{\"indexed\":true,\"internalType\":\"contract IOlympusAuthority\",\"name\":\"authority\",\"type\":\"address\"}],\"name\":\"AuthorityUpdated\",\"type\":\"event\"},{\"anonymous\":false,\"inputs\":[{\"indexed\":true,\"internalType\":\"address\",\"name\":\"from\",\"type\":\"address\"},{\"indexed\":true,\"internalType\":\"address\",\"name\":\"to\",\"type\":\"address\"}],\"name\":\"GovernorPulled\",\"type\":\"event\"},{\"anonymous\":false,\"inputs\":[{\"indexed\":true,\"internalType\":\"address\",\"name\":\"from\",\"type\":\"address\"},{\"indexed\":true,\"internalType\":\"address\",\"name\":\"to\",\"type\":\"address\"},{\"indexed\":false,\"internalType\":\"bool\",\"name\":\"_effectiveImmediately\",\"type\":\"bool\"}],\"name\":\"GovernorPushed\",\"type\":\"event\"},{\"anonymous\":false,\"inputs\":[{\"indexed\":true,\"internalType\":\"address\",\"name\":\"from\",\"type\":\"address\"},{\"indexed\":true,\"internalType\":\"address\",\"name\":\"to\",\"type\":\"address\"}],\"name\":\"GuardianPulled\",\"type\":\"event\"},{\"anonymous\":false,\"inputs\":[{\"indexed\":true,\"internalType\":\"address\",\"name\":\"from\",\"type\":\"address\"},{\"indexed\":true,\"internalType\":\"address\",\"name\":\"to\",\"type\":\"address\"},{\"indexed\":false,\"internalType\":\"bool\",\"name\":\"_effectiveImmediately\",\"type\":\"bool\"}],\"name\":\"GuardianPushed\",\"type\":\"event\"},{\"anonymous\":false,\"inputs\":[{\"indexed\":true,\"internalType\":\"address\",\"name\":\"from\",\"type\":\"address\"},{\"indexed\":true,\"internalType\":\"address\",\"name\":\"to\",\"type\":\"address\"}],\"name\":\"PolicyPulled\",\"type\":\"event\"},{\"anonymous\":false,\"inputs\":[{\"indexed\":true,\"internalType\":\"address\",\"name\":\"from\",\"type\":\"address\"},{\"indexed\":true,\"internalType\":\"address\",\"name\":\"to\",\"type\":\"address\"},{\"indexed\":false,\"internalType\":\"bool\",\"name\":\"_effectiveImmediately\",\"type\":\"bool\"}],\"name\":\"PolicyPushed\",\"type\":\"event\"},{\"anonymous\":false,\"inputs\":[{\"indexed\":true,\"internalType\":\"address\",\"name\":\"from\",\"type\":\"address\"},{\"indexed\":true,\"internalType\":\"address\",\"name\":\"to\",\"type\":\"address\"}],\"name\":\"VaultPulled\",\"type\":\"event\"},{\"anonymous\":false,\"inputs\":[{\"indexed\":true,\"internalType\":\"address\",\"name\":\"from\",\"type\":\"address\"},{\"indexed\":true,\"internalType\":\"address\",\"name\":\"to\",\"type\":\"address\"},{\"indexed\":false,\"internalType\":\"bool\",\"name\":\"_effectiveImmediately\",\"type\":\"bool\"}],\"name\":\"VaultPushed\",\"type\":\"event\"},{\"inputs\":[],\"name\":\"authority\",\"outputs\":[{\"internalType\":\"contract IOlympusAuthority\",\"name\":\"\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"governor\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"guardian\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"newGovernor\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"newGuardian\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"newPolicy\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"newVault\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"policy\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"pullGovernor\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"pullGuardian\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"pullPolicy\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"pullVault\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"address\",\"name\":\"_newGovernor\",\"type\":\"address\"},{\"internalType\":\"bool\",\"name\":\"_effectiveImmediately\",\"type\":\"bool\"}],\"name\":\"pushGovernor\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"address\",\"name\":\"_newGuardian\",\"type\":\"address\"},{\"internalType\":\"bool\",\"name\":\"_effectiveImmediately\",\"type\":\"bool\"}],\"name\":\"pushGuardian\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"address\",\"name\":\"_newPolicy\",\"type\":\"address\"},{\"internalType\":\"bool\",\"name\":\"_effectiveImmediately\",\"type\":\"bool\"}],\"name\":\"pushPolicy\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"address\",\"name\":\"_newVault\",\"type\":\"address\"},{\"internalType\":\"bool\",\"name\":\"_effectiveImmediately\",\"type\":\"bool\"}],\"name\":\"pushVault\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"contract IOlympusAuthority\",\"name\":\"_newAuthority\",\"type\":\"address\"}],\"name\":\"setAuthority\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"vault\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"}],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"contracts/OlympusAuthority.sol\":\"OlympusAuthority\"},\"evmVersion\":\"london\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"none\",\"useLiteralContent\":true},\"optimizer\":{\"enabled\":true,\"runs\":800},\"remappings\":[]},\"sources\":{\"contracts/OlympusAuthority.sol\":{\"content\":\"// SPDX-License-Identifier: AGPL-3.0\\npragma solidity >=0.7.5;\\n\\nimport \\\"./interfaces/IOlympusAuthority.sol\\\";\\n\\nimport \\\"./types/OlympusAccessControlled.sol\\\";\\n\\ncontract OlympusAuthority is IOlympusAuthority, OlympusAccessControlled {\\n    /* ========== STATE VARIABLES ========== */\\n\\n    address public override governor;\\n\\n    address public override guardian;\\n\\n    address public override policy;\\n\\n    address public override vault;\\n\\n    address public newGovernor;\\n\\n    address public newGuardian;\\n\\n    address public newPolicy;\\n\\n    address public newVault;\\n\\n    /* ========== Constructor ========== */\\n\\n    constructor(\\n        address _governor,\\n        address _guardian,\\n        address _policy,\\n        address _vault\\n    ) OlympusAccessControlled(IOlympusAuthority(address(this))) {\\n        governor = _governor;\\n        emit GovernorPushed(address(0), governor, true);\\n        guardian = _guardian;\\n        emit GuardianPushed(address(0), guardian, true);\\n        policy = _policy;\\n        emit PolicyPushed(address(0), policy, true);\\n        vault = _vault;\\n        emit VaultPushed(address(0), vault, true);\\n    }\\n\\n    /* ========== GOV ONLY ========== */\\n\\n    function pushGovernor(address _newGovernor, bool _effectiveImmediately) external onlyGovernor {\\n        if (_effectiveImmediately) governor = _newGovernor;\\n        newGovernor = _newGovernor;\\n        emit GovernorPushed(governor, newGovernor, _effectiveImmediately);\\n    }\\n\\n    function pushGuardian(address _newGuardian, bool _effectiveImmediately) external onlyGovernor {\\n        if (_effectiveImmediately) guardian = _newGuardian;\\n        newGuardian = _newGuardian;\\n        emit GuardianPushed(guardian, newGuardian, _effectiveImmediately);\\n    }\\n\\n    function pushPolicy(address _newPolicy, bool _effectiveImmediately) external onlyGovernor {\\n        if (_effectiveImmediately) policy = _newPolicy;\\n        newPolicy = _newPolicy;\\n        emit PolicyPushed(policy, newPolicy, _effectiveImmediately);\\n    }\\n\\n    function pushVault(address _newVault, bool _effectiveImmediately) external onlyGovernor {\\n        if (_effectiveImmediately) vault = _newVault;\\n        newVault = _newVault;\\n        emit VaultPushed(vault, newVault, _effectiveImmediately);\\n    }\\n\\n    /* ========== PENDING ROLE ONLY ========== */\\n\\n    function pullGovernor() external {\\n        require(msg.sender == newGovernor, \\\"!newGovernor\\\");\\n        emit GovernorPulled(governor, newGovernor);\\n        governor = newGovernor;\\n    }\\n\\n    function pullGuardian() external {\\n        require(msg.sender == newGuardian, \\\"!newGuard\\\");\\n        emit GuardianPulled(guardian, newGuardian);\\n        guardian = newGuardian;\\n    }\\n\\n    function pullPolicy() external {\\n        require(msg.sender == newPolicy, \\\"!newPolicy\\\");\\n        emit PolicyPulled(policy, newPolicy);\\n        policy = newPolicy;\\n    }\\n\\n    function pullVault() external {\\n        require(msg.sender == newVault, \\\"!newVault\\\");\\n        emit VaultPulled(vault, newVault);\\n        vault = newVault;\\n    }\\n}\\n\",\"keccak256\":\"0x27d54ba08a097d9ec008cc73a72814f4dc632d2410fb6dc2b688f7eec0430c67\",\"license\":\"AGPL-3.0\"},\"contracts/interfaces/IOlympusAuthority.sol\":{\"content\":\"// SPDX-License-Identifier: AGPL-3.0\\npragma solidity >=0.7.5;\\n\\ninterface IOlympusAuthority {\\n    /* ========== EVENTS ========== */\\n\\n    event GovernorPushed(address indexed from, address indexed to, bool _effectiveImmediately);\\n    event GuardianPushed(address indexed from, address indexed to, bool _effectiveImmediately);\\n    event PolicyPushed(address indexed from, address indexed to, bool _effectiveImmediately);\\n    event VaultPushed(address indexed from, address indexed to, bool _effectiveImmediately);\\n\\n    event GovernorPulled(address indexed from, address indexed to);\\n    event GuardianPulled(address indexed from, address indexed to);\\n    event PolicyPulled(address indexed from, address indexed to);\\n    event VaultPulled(address indexed from, address indexed to);\\n\\n    /* ========== VIEW ========== */\\n\\n    function governor() external view returns (address);\\n\\n    function guardian() external view returns (address);\\n\\n    function policy() external view returns (address);\\n\\n    function vault() external view returns (address);\\n}\\n\",\"keccak256\":\"0x93c02d36be0a6876183f67e72acf64e0206d0e1e48fb3b9c9ed5614200d9c934\",\"license\":\"AGPL-3.0\"},\"contracts/types/OlympusAccessControlled.sol\":{\"content\":\"// SPDX-License-Identifier: AGPL-3.0-only\\npragma solidity >=0.7.5;\\n\\nimport \\\"../interfaces/IOlympusAuthority.sol\\\";\\n\\nabstract contract OlympusAccessControlled {\\n    /* ========== EVENTS ========== */\\n\\n    event AuthorityUpdated(IOlympusAuthority indexed authority);\\n\\n    string UNAUTHORIZED = \\\"UNAUTHORIZED\\\"; // save gas\\n\\n    /* ========== STATE VARIABLES ========== */\\n\\n    IOlympusAuthority public authority;\\n\\n    /* ========== Constructor ========== */\\n\\n    constructor(IOlympusAuthority _authority) {\\n        authority = _authority;\\n        emit AuthorityUpdated(_authority);\\n    }\\n\\n    /* ========== MODIFIERS ========== */\\n\\n    modifier onlyGovernor() {\\n        require(msg.sender == authority.governor(), UNAUTHORIZED);\\n        _;\\n    }\\n\\n    modifier onlyGuardian() {\\n        require(msg.sender == authority.guardian(), UNAUTHORIZED);\\n        _;\\n    }\\n\\n    modifier onlyPolicy() {\\n        require(msg.sender == authority.policy(), UNAUTHORIZED);\\n        _;\\n    }\\n\\n    modifier onlyVault() {\\n        require(msg.sender == authority.vault(), UNAUTHORIZED);\\n        _;\\n    }\\n\\n    /* ========== GOV ONLY ========== */\\n\\n    function setAuthority(IOlympusAuthority _newAuthority) external onlyGovernor {\\n        authority = _newAuthority;\\n        emit AuthorityUpdated(_newAuthority);\\n    }\\n}\\n\",\"keccak256\":\"0x23457dbe4e9afae578313d2c73ea3880ca58c16d461fdc6ae83eb98e03ea43f7\",\"license\":\"AGPL-3.0-only\"}},\"version\":1}",

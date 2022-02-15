@@ -33,7 +33,7 @@ const config: HardhatUserConfig = {
         cache: "./cache",
         sources: "./contracts",
         tests: "./test",
-        deploy: "./deploy",
+        deploy: "./scripts_backup/deploy",
         deployments: "./deployments",
     },
     solidity: {
